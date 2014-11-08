@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Australia, Belize, Canada, China France, Germany, Iceland, Israel, Italy, Mexico, New Zealand, Portugal, Sweden, Switzerland UK, USA -->
+    <string-array name = "thisCountry">
+	    <item> </item>
+	    <item>15.0% - 20.0%</item>
+	    <item>10.0% - 15.0%</item>
+	    <item></item>
+	    <item> </item>
+	    <item>5.0% - 10.0%</item>
+	    <item>0.0% - 10.0%</item>
+	    <item>10.0% - 15.0%</item>
+	    <item></item>
+	    <item>10.0% - 15.0%</item>
+	    <item></item>
+	    <item>0.0% - 5.0%</item>
+	    <item></item>
+	    <item>0.0%-2.0%</item>
+	    <item>10.0% - 15.0%</item>
+    	<item>15.0% - 30.0%</item> 	
+	</string-array>
+</resources>
